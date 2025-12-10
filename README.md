@@ -10,12 +10,22 @@ Steps to Use App:
 
 ## Screenshots
 
-The app screenshots are included in the Images/ folder. They are embedded below so they render on GitHub.
+The app screenshots are included in the Images/ folder. They are embedded below and displayed at a reduced width so they appear smaller on the page.
 
-![In-app Image 1](Images/In%20app%20Image%201.jpg)
+<p align="center">
+  <img src="Images/In%20app%20Image%201.jpg" alt="In-app Image 1" width="240" style="max-width:100%;height:auto;">
+  <br>
+  <em>In-app Image 1</em>
+</p>
 
-![In-app Image 2](Images/In%20app%20Image%202.jpg)
+<p align="center">
+  <img src="Images/In%20app%20Image%202.jpg" alt="In-app Image 2" width="240" style="max-width:100%;height:auto;">
+  <br>
+  <em>In-app Image 2</em>
+</p>
 
 Notes:
-- If the images don't render, check that the filenames haven't changed and that the Images/ folder is at the repository root.
-- You can also view the images directly at their blob URLs: https://github.com/Ahmed-Elsheshtawy/Temprature-Converter/blob/main/Images/In%20app%20Image%201.jpg and https://github.com/Ahmed-Elsheshtawy/Temprature-Converter/blob/main/Images/In%20app%20Image%202.jpg.
+- If the images don't render, confirm the Images/ folder and filenames are unchanged.
+- Direct blob URLs:
+  - https://github.com/Ahmed-Elsheshtawy/Temprature-Converter/blob/main/Images/In%20app%20Image%201.jpg
+  - https://github.com/Ahmed-Elsheshtawy/Temprature-Converter/blob/main/Images/In%20app%20Image%202.jpg
